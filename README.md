@@ -45,7 +45,7 @@ Here is the folder structure of this app.
 
 <!--- FOLDER_STRUCTURE_START --->
 ```bash
-space-portfolio/
+sakil-ahmed-reza-portfolio/
   |- app/
     |-- apple-icon.png
     |-- favicon.ico
@@ -70,6 +70,7 @@ space-portfolio/
   |- eslint.config.mjs
   |- netlify.toml
   |- next.config.js
+  |- package-lock.json
   |- package.json
   |- pnpm-lock.yaml
   |- pnpm-workspace.yaml
